@@ -3,26 +3,28 @@
 
 ###Prerequisites 
 
--Intellj idea
+* Intellj idea
 
--JavaSE(JavaFX)
+* JavaSE(JavaFX)
 
--SceneBulider
+* SceneBulider
 
 ###Built With
 
--JavaFX
+* JavaFX
 
--Java
+* Java
 
--Java Persistence API
+* Java Persistence API
 
 ###Technological Stack
 
--JAVA
+* JAVA
 
--Hibernate
+* Hibernate
 
--Spring
+* Spring
 
--MySql
+* MySql
+
+* Spring-orm
